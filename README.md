@@ -8,4 +8,6 @@ Connections with other alters in the Florence Nightingale egonet.
 | [Sidney Herbert](https://github.com/altealo/SidneyHerbert/blob/master/README.md)  |[Kopf, E.W. *Florence Nightingale as statistician.*](https://www.jstor.org/stable/2965763?seq=1#metadata_info_tab_contents)|
 | [Adolphe Quetelet](https://github.com/altealo/AdolpheQuetelet/blob/master/README.md)  |[Diamond, M., Stone, M. *Nightingale on Quetelet.*](https://www.jstor.org/stable/2982160?seq=1)|
 | [Dr John Sutherland](https://github.com/altealo/JohnSutherland/blob/master/README.md)  |[Diamond, M., Stone, M. *Nightingale on Quetelet.*](https://www.jstor.org/stable/2982160?seq=1)|
+| [Sir Alexander Tulloch](https://github.com/altealo/SirAlexanderTulloch/blob/master/README.md)  |[Kopf, E.W. *Florence Nightingale as statistician.*](https://www.jstor.org/stable/2965763?seq=1#metadata_info_tab_contents)|
+
 
